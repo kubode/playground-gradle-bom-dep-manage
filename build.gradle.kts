@@ -4,7 +4,7 @@ buildscript {
     }
 
     dependencies {
-        classpath(kotlin("gradle-plugin", "1.4.31"))
+        classpath(kotlin("gradle-plugin", "1.9.23"))
     }
 }
 

@@ -7,7 +7,7 @@ javaPlatform {
 }
 
 dependencies {
-    api(platform(kotlin("bom", "1.4.30")))
+    api(platform(kotlin("bom", "1.9.23")))
     api(platform("io.ktor:ktor-bom:1.4.0"))
     constraints {
         api("junit:junit:4.12")
